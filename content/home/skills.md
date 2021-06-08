@@ -7,28 +7,29 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
-title: Skills
+title: Event Details
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: MindfulHacks, Singapore’s first student-run mental health hackathon, was founded to encourage innovation of solutions to mental health issues and empower students from all backgrounds to take action for causes they care about and combat the stigma of mental illness. As a student-run hackathon, we aim to persuade everyone, including programming beginners, that anyone is able to code. We aim to reach over 100 students from Polytechnics, Universities and Junior Colleges.
+  icon: question-circle
+  icon_pack: fa
+  name: What is Mindfulhacks?
+- description: 
+  icon: 
+  icon_pack: 
+  name: 
+- description: 4th September to 5th September 2021 on Zoom!
+  icon: calendar
+  icon_pack: fa
+  name: Mark your calendars!
 
+  align: center
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
