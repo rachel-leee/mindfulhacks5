@@ -56,7 +56,7 @@ subtitle = "Singapore's First Student-run Mental Health Hackathon"
  css_class = ""
 +++
 
-  ## When: 4th-5th September, 2021 (Zoom)
+  ### When: 4th-5th September, 2021 (Zoom)
 
 
 
